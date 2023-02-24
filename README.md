@@ -14,7 +14,7 @@ https://nkrgupta999.github.io/Resume/
 https://nkrgupta999.github.io/Resume/resume.html
 
 ## Installation
-To view my resume, simply clone this repository and open the `index.html` file in your web browser.
+To view my resume, simply clone this repository and open the `resume.html` file in your web browser.
 
 `bash
 git clone https://github.com/your-username/your-resume-repository.git`
