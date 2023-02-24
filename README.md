@@ -8,7 +8,10 @@ To use this code, simply copy the HTML and CSS code into your own project. You c
 To use this code, you will need a basic understanding of HTML and CSS.
 
 ## Content view
+https://nkrgupta999.github.io/Resume/
+
 ## Web View
+https://nkrgupta999.github.io/Resume/resume.html
 
 ## Installation
 To view my resume, simply clone this repository and open the `index.html` file in your web browser.
